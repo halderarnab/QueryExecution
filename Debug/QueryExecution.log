@@ -1,0 +1,3 @@
+﻿  hash_join_test.cpp
+d:\visual studios repos\queryexecution\queryexecution\hash_join_executor.h(55): warning C4018: '<': signed/unsigned mismatch
+  QueryExecution.vcxproj -> D:\Visual Studios Repos\QueryExecution\Debug\QueryExecution.exe
